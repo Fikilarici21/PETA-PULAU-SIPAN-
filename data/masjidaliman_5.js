@@ -1,0 +1,1 @@
+var json_masjidaliman_5 = {"type":"FeatureCollection","name":"masjidaliman_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"title":"mesjid al iman"},"geometry":{"type":"Point","coordinates":[101.788595976723542,-0.459358442376484]}}]}

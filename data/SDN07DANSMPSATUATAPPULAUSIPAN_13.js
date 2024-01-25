@@ -1,0 +1,1 @@
+var json_SDN07DANSMPSATUATAPPULAUSIPAN_13 = {"type":"FeatureCollection","name":"SDN07DANSMPSATUATAPPULAUSIPAN_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"title":"SDN 07 DAN SMP SATU ATAP PULAU SIPAN"},"geometry":{"type":"Point","coordinates":[101.789161676315729,-0.458713623960713]}}]}

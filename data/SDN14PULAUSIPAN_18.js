@@ -1,0 +1,1 @@
+var json_SDN14PULAUSIPAN_18 = {"type":"FeatureCollection","name":"SDN14PULAUSIPAN_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"title":"SDN 14 PULAU SIPAN"},"geometry":{"type":"Point","coordinates":[101.796846751422294,-0.464658084938843]}}]}

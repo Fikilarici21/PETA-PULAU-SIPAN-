@@ -1,0 +1,1 @@
+var json_MushollaPauhManis_10 = {"type":"FeatureCollection","name":"MushollaPauhManis_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"title":"Musholla Pauh Manis"},"geometry":{"type":"Point","coordinates":[101.786643060417887,-0.463725801462461]}}]}

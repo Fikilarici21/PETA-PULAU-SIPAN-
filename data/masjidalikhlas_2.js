@@ -1,0 +1,1 @@
+var json_masjidalikhlas_2 = {"type":"FeatureCollection","name":"masjidalikhlas_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"title":"masjid al ikhlas"},"geometry":{"type":"Point","coordinates":[101.798791755845755,-0.463231308812324]}}]}

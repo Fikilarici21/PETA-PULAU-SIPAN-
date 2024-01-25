@@ -1,0 +1,1 @@
+var json_MushollaAMD_17 = {"type":"FeatureCollection","name":"MushollaAMD_17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"title":"Musholla AMD"},"geometry":{"type":"Point","coordinates":[101.785134528173316,-0.465724870416065]}}]}
